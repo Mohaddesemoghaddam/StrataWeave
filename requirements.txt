@@ -1,0 +1,12 @@
+# Compatible version constraints should be pinned from the actual validated environment.
+# TensorFlow platform/GPU support varies by OS and architecture.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+joblib
+pyarrow
+jupyter
+ipykernel
+tensorflow
